@@ -4,9 +4,9 @@
 
 ## Description
 
-Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called **content management systems (CMS)**. Your assignment this week is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+This is a command-line application that can do various actions in regards to an employee database. It can view current departments, roles, and employees. It can also add new and delete departments, roles, and employees. Furthermore, it can update an employee's role. 
 
-Because this application won’t be deployed, you’ll also need to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. You’ll need to submit a link to the video and add it to the README of your project.
+A video walkthrough has been recorded to demonstrate its functions. 
 
 > Github Repository Link: [https://github.com/Bickolus/teta](https://github.com/Bickolus/teta)
 >
@@ -27,7 +27,10 @@ Type "npm install" in the console to install the dependancies this application r
 
 ## Usage
 
-In order to run this program, the user must type "node index.js" in their console.
+In order to run this program, the user must type "node index.js" in their console. The program will only work if they have a running sql database with the
+schema used in the db folder, otherwise the program will not know what you're talking about, since it relies on a connection to the employees_db database
+provided.
+
 
 ## Example
 
