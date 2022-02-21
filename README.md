@@ -34,11 +34,11 @@ provided.
 
 ## Example
 
-### Screenshot of the Program Running
+### Screenshot of the Program Running (View Tables)
 
-![Screenshot of TETA running](./images/teta1.png)
+![Screenshot of TETA running, showing tables of employee database](./images/teta1.png)
 
-### Video Demonstration
+### Video Demonstration (Add/Update Tables)
 
 
 
