@@ -10,7 +10,7 @@ A video walkthrough has been recorded to demonstrate its functions.
 
 > Github Repository Link: [https://github.com/Bickolus/teta](https://github.com/Bickolus/teta)
 >
-> Video Link: [to be added]
+> Video Link: [https://user-images.githubusercontent.com/96181899/155039447-a97dbedd-e3a4-46d2-b1d9-960d79f6fda0.mp4](https://user-images.githubusercontent.com/96181899/155039447-a97dbedd-e3a4-46d2-b1d9-960d79f6fda0.mp4)
 
 
 ## Table of Contents
@@ -40,7 +40,7 @@ provided.
 
 ### Video Demonstration (Add/Update Tables)
 
-
+https://user-images.githubusercontent.com/96181899/155039447-a97dbedd-e3a4-46d2-b1d9-960d79f6fda0.mp4
 
 ## License
 
